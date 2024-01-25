@@ -41,7 +41,7 @@ function relativePathToUrl(path) {
   }
 /* ----- TYPING EFFECT ----- */
  var typingEffect = new Typed(".typedText",{
-    strings : ["Frontend","Backend","DBA"],
+    strings : ["Frontend","Backend","Full-Stack"],
     loop : true,
     typeSpeed : 100, 
     backSpeed : 80,
